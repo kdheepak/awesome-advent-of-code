@@ -4,15 +4,33 @@ A awesome and curated list of the best idiomatic Advent of Code solutions from v
 
 ## # 2018
 
+**Coq**
+
+- https://github.com/Lysxia/advent-of-coq-2018
+
+**Haskell**
+
+- https://github.com/glguy/advent2018/tree/master/execs
+
 **Nim**
 
 - https://github.com/narimiran/AdventOfCode2018
+- https://github.com/epiphone/aoc/tree/master/2018<
+-
 
 ## # 2017
+
+**Haskell**
+
+- https://github.com/glguy/advent2017/tree/master/execs
 
 **Nim**
 
 - https://github.com/narimiran/AdventOfCode2017
+
+**Rust**
+
+- https://github.com/wgml/aoc-2017-rust/tree/master/src/bin
 
 ## # 2016
 
