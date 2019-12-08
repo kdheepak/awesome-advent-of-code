@@ -1,4 +1,4 @@
-# Awesome Advent of Code Solutions [![Awesome Advent of Code Solutions](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/kdheepak/awesome-advent-of-code)
+# Awesome Advent of Code [![Awesome Advent of Code](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/kdheepak/awesome-advent-of-code)
 
 A awesome and curated list of the best idiomatic Advent of Code solutions from various programming languages.
 
