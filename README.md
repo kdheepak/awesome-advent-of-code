@@ -94,10 +94,10 @@ A list of Advent of Code solutions from various programming languages.
 
 #### Java
 
-- https://github.com/joeljons/aoc/tree/master/src/main/java/se/timotej/advent/y2019
 - https://github.com/SimonBaars/adventOfCode-2019
 - https://github.com/agrison/advent-of-code-2019/
 - https://github.com/giganova/advent-of-code-2019-java
+- https://github.com/joeljons/aoc/tree/master/src/main/java/se/timotej/advent/y2019
 
 #### Javascript
 
@@ -135,11 +135,11 @@ A list of Advent of Code solutions from various programming languages.
 - https://github.com/mkborregaard/AdventOfCode2019
 - https://github.com/mvaldesdeleon/aoc19
 - https://github.com/perrutquist/aoc2019
+- https://github.com/petertseng/adventofcode-hs-2019
 - https://github.com/racinmat/advent_of_code_2019
 - https://github.com/sebastianpech/AdventOfCode2019
 - https://github.com/smatting/aoc2019
 - https://github.com/tk3369/AdventOfCode2019
-- https://github.com/petertseng/adventofcode-hs-2019
 
 #### Kotlin
 
@@ -147,9 +147,9 @@ A list of Advent of Code solutions from various programming languages.
 - https://github.com/daafith/advent-of-code-2019
 - https://github.com/ephemient/aoc2019/tree/kt
 - https://github.com/hughjdavey/aoc-2019
-- https://github.com/mew/aoc-2019
 - https://github.com/jgoerner/aoc-2019
 - https://github.com/jorispz/aoc-2019
+- https://github.com/mew/aoc-2019
 
 #### Mathematica
 
@@ -166,8 +166,8 @@ A list of Advent of Code solutions from various programming languages.
 
 #### Perl
 
-- https://github.com/lskatz/advent-of-code
 - https://github.com/kcaran/adventofcode2019
+- https://github.com/lskatz/advent-of-code
 
 #### PHP
 
@@ -222,6 +222,7 @@ A list of Advent of Code solutions from various programming languages.
 - https://github.com/adam-gruer/aoc2019
 - https://github.com/akulumbeg/adventofcode
 - https://github.com/davidmasp/adventofcode-dmp
+- https://github.com/klevan/adventofcode2019
 - https://github.com/mpjdem/adventofcode2019
 - https://github.com/riinuots/advent2019
 
@@ -231,25 +232,25 @@ A list of Advent of Code solutions from various programming languages.
 
 #### Ruby
 
-- https://github.com/tckmn/polyaoc-2019
-- https://github.com/petertseng/adventofcode-rb-2019
 - https://github.com/Kazhuu/advent-of-code-2019
 - https://github.com/Keirua/adventofcode-rb
 - https://github.com/Pungsnigel/advent_of_code_2019
+- https://github.com/petertseng/adventofcode-rb-2019
+- https://github.com/tckmn/polyaoc-2019
 
 #### Rust
 
-- https://github.com/geluso/advent-of-code-2019
 - https://github.com/AlexAegis/advent-of-code
 - https://github.com/AmauryCarrade/AdventOfCode2019
 - https://github.com/DarthGandalf/advent-of-code
 - https://github.com/alyti/aoc-2019
 - https://github.com/dashed/advent-of-code
 - https://github.com/fornwall/advent-of-code-2019-rs
+- https://github.com/geluso/advent-of-code-2019
 - https://github.com/hashedone/advent-of-code-2019-rust
+- https://github.com/jdlambert/advent-of-code-2019
 - https://github.com/meyerphi/advent-of-code
 - https://github.com/notviri/aoc2019
-- https://github.com/jdlambert/advent-of-code-2019
 
 ## # 2018
 
@@ -274,9 +275,9 @@ A list of Advent of Code solutions from various programming languages.
 #### Clojure
 
 - https://github.com/Average-user/adventofcode-clj-2018
+- https://github.com/FelipeCortez/advent-of-code
 - https://github.com/adventofcode-clojurians/adventofcode-clojurians
 - https://github.com/borkdude/advent-of-cljc
-- https://github.com/FelipeCortez/advent-of-code
 
 #### Coq
 
@@ -505,8 +506,8 @@ A list of Advent of Code solutions from various programming languages.
 - https://github.com/mstksg/advent-of-code-2017
 - https://github.com/mvaldesdeleon/aoc-2017-hs
 - https://github.com/nshepperd/advent-of-code/tree/master/2017
-- https://github.com/vaibhavsagar/advent-of-code/tree/master/2017
 - https://github.com/petertseng/adventofcode-hs-2017
+- https://github.com/vaibhavsagar/advent-of-code/tree/master/2017
 
 #### Java
 
@@ -514,8 +515,8 @@ A list of Advent of Code solutions from various programming languages.
 
 #### Javascript
 
-- https://github.com/katemihalikova/advent-of-code/tree/latest/2017
 - https://github.com/elliot-nelson/advent-of-code/tree/master/src/2017
+- https://github.com/katemihalikova/advent-of-code/tree/latest/2017
 
 #### Mathematica
 
@@ -537,9 +538,9 @@ A list of Advent of Code solutions from various programming languages.
 
 - https://github.com/benediktwerner/AdventOfCode/tree/master/2017
 - https://github.com/ethframe/aoc_2017
+- https://github.com/fuglede/adventofcode/tree/master/2017
 - https://github.com/gengkev/adventofcode-2017
 - https://github.com/iKevinY/advent/tree/master/2017
-- https://github.com/fuglede/adventofcode/tree/master/2017
 - https://github.com/orez-/Advent-of-Code-2017
 
 #### Ruby
@@ -575,8 +576,8 @@ A list of Advent of Code solutions from various programming languages.
 #### Python
 
 - https://github.com/benediktwerner/AdventOfCode/tree/master/2016
-- https://github.com/iKevinY/advent/tree/master/2016
 - https://github.com/fuglede/adventofcode/tree/master/2016
+- https://github.com/iKevinY/advent/tree/master/2016
 - https://github.com/orez-/Advent-of-Code-2016
 
 #### Ruby
@@ -602,8 +603,8 @@ A list of Advent of Code solutions from various programming languages.
 
 - https://github.com/bjornars/aoc2015
 - https://github.com/mgudemann/AoC/tree/master/AoC2015
-- https://github.com/vaibhavsagar/advent-of-code/tree/master/2015
 - https://github.com/petertseng/adventofcode-hs-2015
+- https://github.com/vaibhavsagar/advent-of-code/tree/master/2015
 
 #### Java
 
@@ -615,11 +616,11 @@ A list of Advent of Code solutions from various programming languages.
 
 #### Python
 
-- https://github.com/benediktwerner/AdventOfCode/tree/master/2015
-- https://github.com/iKevinY/advent/tree/master/2015
-- https://github.com/fuglede/adventofcode/tree/master/2015
-- https://github.com/orez-/Advent-of-Code-2015
 - https://github.com/Ikusaba-san/aoc/tree/master/aoc/2015
+- https://github.com/benediktwerner/AdventOfCode/tree/master/2015
+- https://github.com/fuglede/adventofcode/tree/master/2015
+- https://github.com/iKevinY/advent/tree/master/2015
+- https://github.com/orez-/Advent-of-Code-2015
 
 #### Haskell
 
