@@ -633,10 +633,10 @@ A list of Advent of Code solutions from various programming languages.
 
 - https://github.com/petertseng/adventofcode-rs-2015
 
-# Related
+### Related
 
-See similar [list](https://github.com/Bogdanp/awesome-advent-of-code).
+See similar list [here](https://github.com/Bogdanp/awesome-advent-of-code).
 
-# License
+### License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/2.5/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/">Creative Commons Attribution-ShareAlike 2.5 Generic License</a>.
