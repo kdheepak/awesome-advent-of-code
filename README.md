@@ -4,6 +4,10 @@ A awesome and curated list of the best idiomatic Advent of Code solutions from v
 
 ## # 2019
 
+### Elixir
+
+- https://github.com/christopher-dG/aoc
+
 ### Julia
 
 - https://github.com/dgkf/advent-of-code/master/2019
