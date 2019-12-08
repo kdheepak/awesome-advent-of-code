@@ -4,7 +4,7 @@ A awesome and curated list of the best idiomatic Advent of Code solutions from v
 
 ## # 2019
 
-**Julia**
+### Julia
 
 - https://github.com/dgkf/advent-of-code/master/2019
 - https://github.com/kdheepak/adventofcode/master/2019/julia
@@ -15,36 +15,36 @@ A awesome and curated list of the best idiomatic Advent of Code solutions from v
 - https://github.com/kiranshila/AoC2019
 - https://github.com/mkborregaard/AdventOfCode2019
 
-**Rust**
+### Rust
 
 - https://github.com/geluso/advent-of-code-2019
 
 ## # 2018
 
-**Coq**
+### Coq
 
 - https://github.com/Lysxia/advent-of-coq-2018
 
-**Haskell**
+### Haskell
 
 - https://github.com/glguy/advent2018/tree/master/execs
 
-**Nim**
+### Nim
 
 - https://github.com/epiphone/aoc/tree/master/2018
 - https://github.com/narimiran/AdventOfCode2018
 
 ## # 2017
 
-**Haskell**
+### Haskell
 
 - https://github.com/glguy/advent2017/tree/master/execs
 
-**Nim**
+### Nim
 
 - https://github.com/narimiran/AdventOfCode2017
 
-**Rust**
+### Rust
 
 - https://github.com/wgml/aoc-2017-rust/tree/master/src/bin
 
