@@ -10,6 +10,14 @@ A awesome and curated list of the best idiomatic Advent of Code solutions from v
 - https://github.com/kdheepak/adventofcode/master/2019/julia
 - https://github.com/kleinschmidt/adventofcode2019
 - https://github.com/tk3369/AdventOfCode2019
+- https://github.com/perrutquist/aoc2019
+- https://github.com/sebastianpech/AdventOfCode2019
+- https://github.com/kiranshila/AoC2019
+- https://github.com/mkborregaard/AdventOfCode2019
+
+**Rust**
+
+- https://github.com/geluso/advent-of-code-2019
 
 ## # 2018
 
