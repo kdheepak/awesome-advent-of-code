@@ -14,32 +14,33 @@ A awesome and curated list of the best idiomatic Advent of Code solutions from v
 
 ### Haskell
 
-- https://github.com/glguy/advent2019
-- https://github.com/nshepperd/advent-of-code/tree/master/2019
-- https://github.com/mstksg/advent-of-code-2019
-- https://github.com/ephemient/aoc2019
 - https://github.com/ChaiTRex/advent-of-code-2019
-- https://github.com/emiflake/Advent-of-Code-2019
-- https://github.com/shekeru/advent-of-code
+- https://github.com/ChrisPenner/advent-of-code-haskell
+- https://github.com/Solonarv/adventofcode-2019
 - https://github.com/amalloy/aoc-2019
-- https://github.com/neilparikh/advent-of-code2019
+- https://github.com/barrucadu/aoc/tree/master/2019
+- https://github.com/bjornars/aoc19
 - https://github.com/dmjio/advent-of-code-2019
-- https://github.com/mgudemann/AoC/tree/master/AoC2019
+- https://github.com/emiflake/Advent-of-Code-2019
+- https://github.com/ephemient/aoc2019
+- https://github.com/glguy/advent2019
+- https://github.com/hmpcabral/aoc2019
+- https://github.com/jan-g/advent2019
 - https://github.com/jiegillet/advent-of-code/tree/master/2019
 - https://github.com/jitwit/aoc
-- https://github.com/bjornars/aoc19
-- https://github.com/hmpcabral/aoc2019
-- https://github.com/ChrisPenner/advent-of-code-haskell
 - https://github.com/lcycon/AdventOfCode2019
-- https://github.com/jan-g/advent2019
+- https://github.com/mgudemann/AoC/tree/master/AoC2019
+- https://github.com/mstksg/advent-of-code-2019
+- https://github.com/neilparikh/advent-of-code2019
+- https://github.com/nshepperd/advent-of-code/tree/master/2019
 - https://github.com/phaazon/advent-of-code-2k19
-- https://github.com/Solonarv/adventofcode-2019
+- https://github.com/shekeru/advent-of-code
 - https://github.com/vaibhavsagar/advent-of-code/tree/master/2019
 - https://github.com/vladciobanu/advent-of-code-2019
-- https://github.com/barrucadu/aoc/tree/master/2019
 
 ### Julia
 
+- https://github.com/Taneb/aoc2019
 - https://github.com/dgkf/advent-of-code/tree/master/2019
 - https://github.com/gsoleilhac/aoc19.jl
 - https://github.com/kamilbeker/aoc2019.jl
@@ -47,13 +48,12 @@ A awesome and curated list of the best idiomatic Advent of Code solutions from v
 - https://github.com/kiranshila/AoC2019
 - https://github.com/kleinschmidt/adventofcode2019
 - https://github.com/mkborregaard/AdventOfCode2019
+- https://github.com/mvaldesdeleon/aoc19
 - https://github.com/perrutquist/aoc2019
 - https://github.com/racinmat/advent_of_code_2019
 - https://github.com/sebastianpech/AdventOfCode2019
-- https://github.com/tk3369/AdventOfCode2019
-- https://github.com/Taneb/aoc2019
 - https://github.com/smatting/aoc2019
-- https://github.com/mvaldesdeleon/aoc19
+- https://github.com/tk3369/AdventOfCode2019
 
 ### Racket
 
@@ -75,24 +75,24 @@ A awesome and curated list of the best idiomatic Advent of Code solutions from v
 
 ### Haskell
 
-- https://github.com/glguy/advent2018
-- https://github.com/nshepperd/advent-of-code/tree/master/2018
-- https://github.com/mstksg/advent-of-code-2018
-- https://github.com/ephemient/aoc2018
-- https://github.com/dmjio/AdventOfCode2018
-- https://github.com/mgudemann/AoC/tree/master/AoC2018
-- https://github.com/jiegillet/advent-of-code/tree/master/2018
-- https://github.com/bjornars/aoc2018
-- https://github.com/hmpcabral/aoc2018
-- https://github.com/lcycon/AdventOfCode2018
-- https://github.com/jan-g/advent2018
-- https://github.com/phaazon/advent-of-code-2k18
 - https://github.com/Solonarv/adventofcode-2018
-- https://github.com/vaibhavsagar/advent-of-code/tree/master/2018
-- https://github.com/barrucadu/aoc/tree/master/2018
 - https://github.com/Taneb/aoc2018
-- https://github.com/smatting/aoc2018
+- https://github.com/barrucadu/aoc/tree/master/2018
+- https://github.com/bjornars/aoc2018
+- https://github.com/dmjio/AdventOfCode2018
+- https://github.com/ephemient/aoc2018
+- https://github.com/glguy/advent2018
+- https://github.com/hmpcabral/aoc2018
+- https://github.com/jan-g/advent2018
+- https://github.com/jiegillet/advent-of-code/tree/master/2018
+- https://github.com/lcycon/AdventOfCode2018
+- https://github.com/mgudemann/AoC/tree/master/AoC2018
+- https://github.com/mstksg/advent-of-code-2018
 - https://github.com/mvaldesdeleon/aoc18
+- https://github.com/nshepperd/advent-of-code/tree/master/2018
+- https://github.com/phaazon/advent-of-code-2k18
+- https://github.com/smatting/aoc2018
+- https://github.com/vaibhavsagar/advent-of-code/tree/master/2018
 
 ### Nim
 
@@ -107,14 +107,14 @@ A awesome and curated list of the best idiomatic Advent of Code solutions from v
 
 ### Haskell
 
-- https://github.com/glguy/advent2017
-- https://github.com/nshepperd/advent-of-code/tree/master/2017
-- https://github.com/mstksg/advent-of-code-2017
-- https://github.com/ephemient/aoc2017
-- https://github.com/dmjio/aoc2017
 - https://github.com/Solonarv/adventofcode-2017
-- https://github.com/vaibhavsagar/advent-of-code/tree/master/2017
+- https://github.com/dmjio/aoc2017
+- https://github.com/ephemient/aoc2017
+- https://github.com/glguy/advent2017
+- https://github.com/mstksg/advent-of-code-2017
 - https://github.com/mvaldesdeleon/aoc-2017-hs
+- https://github.com/nshepperd/advent-of-code/tree/master/2017
+- https://github.com/vaibhavsagar/advent-of-code/tree/master/2017
 
 ### Nim
 
@@ -132,9 +132,9 @@ A awesome and curated list of the best idiomatic Advent of Code solutions from v
 
 ### Haskell
 
-- https://github.com/nshepperd/advent-of-code/tree/master/2016
-- https://github.com/mstksg/advent-of-code-2016
 - https://github.com/ephemient/aoc2016
+- https://github.com/mstksg/advent-of-code-2016
+- https://github.com/nshepperd/advent-of-code/tree/master/2016
 - https://github.com/vaibhavsagar/advent-of-code/tree/master/2016
 
 ### Rust
@@ -145,8 +145,8 @@ A awesome and curated list of the best idiomatic Advent of Code solutions from v
 
 ### Haskell
 
-- https://github.com/mgudemann/AoC/tree/master/AoC2015
 - https://github.com/bjornars/aoc2015
+- https://github.com/mgudemann/AoC/tree/master/AoC2015
 - https://github.com/vaibhavsagar/advent-of-code/tree/master/2015
 
 # License
