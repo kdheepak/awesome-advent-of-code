@@ -222,6 +222,7 @@ A list of Advent of Code solutions from various programming languages.
 - https://github.com/adam-gruer/aoc2019
 - https://github.com/akulumbeg/adventofcode
 - https://github.com/davidmasp/adventofcode-dmp
+- https://github.com/jennielu92/AdventOfCode
 - https://github.com/klevan/adventofcode2019
 - https://github.com/mpjdem/adventofcode2019
 - https://github.com/riinuots/advent2019
