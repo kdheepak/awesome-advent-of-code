@@ -2,6 +2,15 @@
 
 A awesome and curated list of the best idiomatic Advent of Code solutions from various programming languages.
 
+## # 2019
+
+**Julia**
+
+- https://github.com/dgkf/advent-of-code/master/2019
+- https://github.com/kdheepak/adventofcode/master/2019/julia
+- https://github.com/kleinschmidt/adventofcode2019
+- https://github.com/tk3369/AdventOfCode2019
+
 ## # 2018
 
 **Coq**
@@ -14,9 +23,8 @@ A awesome and curated list of the best idiomatic Advent of Code solutions from v
 
 **Nim**
 
+- https://github.com/epiphone/aoc/tree/master/2018
 - https://github.com/narimiran/AdventOfCode2018
-- https://github.com/epiphone/aoc/tree/master/2018<
--
 
 ## # 2017
 
@@ -31,10 +39,6 @@ A awesome and curated list of the best idiomatic Advent of Code solutions from v
 **Rust**
 
 - https://github.com/wgml/aoc-2017-rust/tree/master/src/bin
-
-## # 2016
-
-**Python**
 
 # License
 
