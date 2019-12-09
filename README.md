@@ -83,11 +83,14 @@ A list of Advent of Code solutions from various programming languages.
 - https://github.com/lcycon/AdventOfCode2019
 - https://github.com/mgudemann/AoC/tree/master/AoC2019
 - https://github.com/mstksg/advent-of-code-2019
+- https://github.com/mvaldesdeleon/aoc19
 - https://github.com/neilparikh/advent-of-code2019
 - https://github.com/nrdmn/adventofcode2019
 - https://github.com/nshepperd/advent-of-code/tree/master/2019
+- https://github.com/petertseng/adventofcode-hs-2019
 - https://github.com/phaazon/advent-of-code-2k19
 - https://github.com/shekeru/advent-of-code
+- https://github.com/smatting/aoc2019
 - https://github.com/vaibhavsagar/advent-of-code/tree/master/2019
 - https://github.com/vladciobanu/advent-of-code-2019
 - https://github.com/webbiscuit/adventofcode
@@ -133,12 +136,9 @@ A list of Advent of Code solutions from various programming languages.
 - https://github.com/kiranshila/AoC2019
 - https://github.com/kleinschmidt/adventofcode2019
 - https://github.com/mkborregaard/AdventOfCode2019
-- https://github.com/mvaldesdeleon/aoc19
 - https://github.com/perrutquist/aoc2019
-- https://github.com/petertseng/adventofcode-hs-2019
 - https://github.com/racinmat/advent_of_code_2019
 - https://github.com/sebastianpech/AdventOfCode2019
-- https://github.com/smatting/aoc2019
 - https://github.com/tk3369/AdventOfCode2019
 
 #### Kotlin
