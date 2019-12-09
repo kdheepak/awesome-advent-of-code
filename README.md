@@ -63,10 +63,10 @@ A list of Advent of Code solutions from various programming languages.
 
 #### Haskell
 
-
 - https://github.com/ChaiTRex/advent-of-code-2019
 - https://github.com/ChrisPenner/advent-of-code-haskell
 - https://github.com/Solonarv/adventofcode-2019
+- https://github.com/Taneb/aoc2019
 - https://github.com/amalloy/aoc-2019
 - https://github.com/barrucadu/aoc/tree/master/2019
 - https://github.com/bjornars/aoc19
@@ -125,7 +125,6 @@ A list of Advent of Code solutions from various programming languages.
 
 #### Julia
 
-- https://github.com/Taneb/aoc2019
 - https://github.com/dgkf/advent-of-code/tree/master/2019
 - https://github.com/gsoleilhac/aoc19.jl
 - https://github.com/kamilbeker/aoc2019.jl
