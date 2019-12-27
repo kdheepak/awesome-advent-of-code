@@ -83,6 +83,7 @@ A list of Advent of Code solutions from various programming languages.
 - https://github.com/jitwit/aoc
 - https://github.com/lcycon/AdventOfCode2019
 - https://github.com/mgudemann/AoC/tree/master/AoC2019
+- https://github.com/mrphlip/aoc2019
 - https://github.com/mstksg/advent-of-code-2019
 - https://github.com/mvaldesdeleon/aoc19
 - https://github.com/neilparikh/advent-of-code2019
