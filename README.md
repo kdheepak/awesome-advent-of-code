@@ -8,6 +8,7 @@ A list of Advent of Code solutions from various programming languages.
 
 - https://github.com/LukasGelbmann/Advent-of-Code-2019
 - https://github.com/coder5506/advent-of-code-2019
+- https://github.com/Emauz/advent_of_code_2019
 
 #### C++
 
