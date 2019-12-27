@@ -150,6 +150,7 @@ A list of Advent of Code solutions from various programming languages.
 - https://github.com/jgoerner/aoc-2019
 - https://github.com/jorispz/aoc-2019
 - https://github.com/mew/aoc-2019
+- https://github.com/Spheniscine/AdventOfCode2019/
 
 #### Mathematica
 
