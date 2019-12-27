@@ -14,6 +14,7 @@ A list of Advent of Code solutions from various programming languages.
 
 - https://github.com/jebouin/Advent-Of-Code-2019
 - https://github.com/voivoid/advent-of-code
+- https://github.com/Voltara/advent2018-fast
 
 #### C#
 
