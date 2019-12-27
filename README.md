@@ -252,6 +252,7 @@ A list of Advent of Code solutions from various programming languages.
 - https://github.com/geluso/advent-of-code-2019
 - https://github.com/hashedone/advent-of-code-2019-rust
 - https://github.com/jdlambert/advent-of-code-2019
+- https://github.com/JonathanBrouwer/aoc2019
 - https://github.com/meyerphi/advent-of-code
 - https://github.com/notviri/aoc2019
 
