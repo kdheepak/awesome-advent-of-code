@@ -45,6 +45,10 @@ A list of Advent of Code solutions from various programming languages.
 
 - https://github.com/christopher-dG/aoc
 
+#### Erlang
+
+- https://github.com/macintux/advent-of-code-2019
+
 #### Go
 
 - https://github.com/GreenLightning/aoc19
