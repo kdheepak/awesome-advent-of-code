@@ -8,11 +8,13 @@ A list of Advent of Code solutions from various programming languages.
 
 - https://github.com/LukasGelbmann/Advent-of-Code-2019
 - https://github.com/coder5506/advent-of-code-2019
+- https://github.com/Emauz/advent_of_code_2019
 
 #### C++
 
 - https://github.com/jebouin/Advent-Of-Code-2019
 - https://github.com/voivoid/advent-of-code
+- https://github.com/Voltara/advent2018-fast
 
 #### C#
 
@@ -86,6 +88,7 @@ A list of Advent of Code solutions from various programming languages.
 - https://github.com/jitwit/aoc
 - https://github.com/lcycon/AdventOfCode2019
 - https://github.com/mgudemann/AoC/tree/master/AoC2019
+- https://github.com/mrphlip/aoc2019
 - https://github.com/mstksg/advent-of-code-2019
 - https://github.com/mvaldesdeleon/aoc19
 - https://github.com/neilparikh/advent-of-code2019
@@ -154,6 +157,7 @@ A list of Advent of Code solutions from various programming languages.
 - https://github.com/jgoerner/aoc-2019
 - https://github.com/jorispz/aoc-2019
 - https://github.com/mew/aoc-2019
+- https://github.com/Spheniscine/AdventOfCode2019/
 
 #### Mathematica
 
@@ -254,8 +258,10 @@ A list of Advent of Code solutions from various programming languages.
 - https://github.com/geluso/advent-of-code-2019
 - https://github.com/hashedone/advent-of-code-2019-rust
 - https://github.com/jdlambert/advent-of-code-2019
+- https://github.com/JonathanBrouwer/aoc2019
 - https://github.com/meyerphi/advent-of-code
 - https://github.com/notviri/aoc2019
+- https://github.com/AxlLind/AdventOfCode2019/
 
 ## # 2018
 
