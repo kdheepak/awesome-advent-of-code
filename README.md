@@ -92,6 +92,7 @@ A list of Advent of Code solutions from various programming languages.
 - https://github.com/nshepperd/advent-of-code/tree/master/2019
 - https://github.com/petertseng/adventofcode-hs-2019
 - https://github.com/phaazon/advent-of-code-2k19
+- https://github.com/Rick-T/Advent-of-Code-2k19
 - https://github.com/shekeru/advent-of-code
 - https://github.com/smatting/aoc2019
 - https://github.com/vaibhavsagar/advent-of-code/tree/master/2019
