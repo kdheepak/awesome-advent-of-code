@@ -62,6 +62,7 @@ A list of Advent of Code solutions from various programming languages.
 - https://github.com/tsholmes/aoc-2019
 - https://github.com/williamfhe/advent-of-code-2019
 - https://gitlab.com/sasom/adventofcode19
+- https://github.com/stevotvr/adventofcode2019
 
 #### Haskell
 
