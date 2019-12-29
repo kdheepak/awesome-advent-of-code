@@ -266,6 +266,10 @@ A list of Advent of Code solutions from various programming languages.
 - https://github.com/notviri/aoc2019
 - https://github.com/AxlLind/AdventOfCode2019/
 
+#### Zsh
+
+- https://github.com/romkatv/advent-of-code-2019
+
 ## # 2018
 
 #### C
