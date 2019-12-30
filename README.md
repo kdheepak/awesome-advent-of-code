@@ -36,10 +36,13 @@ A list of Advent of Code solutions from various programming languages.
 - https://github.com/felipecortez/advent-of-code
 - https://github.com/jdlambert/advent-of-code-2019
 
-
 #### D
 
 - https://github.com/jrfondren/adventofcode
+
+#### Dart
+
+- https://github.com/ejain/advent-of-code-2019
 
 #### Elixir
 
