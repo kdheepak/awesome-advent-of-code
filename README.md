@@ -186,7 +186,9 @@ A list of Advent of Code solutions from various programming languages.
 
 - https://github.com/aran112000/Advent-of-Code-2019-PHP
 - https://github.com/cbzink/advent-of-code-2019
+- https://github.com/mariush-github/adventofcodecom2019
 - https://github.com/vuryss/aoc-2019
+
 
 #### Python
 
