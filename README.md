@@ -141,6 +141,7 @@ A list of Advent of Code solutions from various programming languages.
 #### Julia
 
 - https://github.com/KristofferC/AdventOfCode2019
+- https://github.com/MrSimbax/Advent_Of_Code_2019
 - https://github.com/dgkf/advent-of-code/tree/master/2019
 - https://github.com/gsoleilhac/aoc19.jl
 - https://github.com/kamilbeker/aoc2019.jl
