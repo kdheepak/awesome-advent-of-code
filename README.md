@@ -153,6 +153,7 @@ A list of Advent of Code solutions from various programming languages.
 - https://github.com/racinmat/advent_of_code_2019
 - https://github.com/sebastianpech/AdventOfCode2019
 - https://github.com/tk3369/AdventOfCode2019
+- https://github.com/Arkoniak/advent_of_code/tree/master/2019
 
 #### Kotlin
 
